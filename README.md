@@ -1,6 +1,6 @@
 # ApparelTrack
 
-One connected platform for apparel development — from tech pack to pattern, costing and purchasing.
+One connected platform for apparel development — from tech pack to pattern, costing, purchasing and supplier management.
 
 ## Why
 
@@ -11,7 +11,8 @@ Every new style arrives in two languages and changes at every sample round, so t
 the same data by hand at every step. It is slow, error-prone, and caps how many styles one
 person can manage.
 
-ApparelTrack connects every step on one shared, traceable set of data.
+ApparelTrack connects every step on one shared, traceable set of data — all the way to
+managing the suppliers who deliver the materials.
 
 ## What it does
 
