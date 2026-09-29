@@ -4,8 +4,9 @@ One connected platform for apparel development — from tech pack to pattern, co
 
 ## Why
 
-The apparel industry has no platform that runs from start to finish. Tech packs live in PDFs,
-patterns in CAD, costing in spreadsheets, orders in ERP — and none of them talk to each other.
+The apparel industry has no platform that runs from start to finish. Every team juggles
+several separate systems at the same time — tech packs in PDFs, patterns in CAD, costing in
+spreadsheets, orders in ERP, updates by email — and none of them talk to each other.
 Every new style arrives in two languages and changes at every sample round, so teams re-type
 the same data by hand at every step. It is slow, error-prone, and caps how many styles one
 person can manage.
