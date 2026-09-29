@@ -2,6 +2,8 @@
 
 AI-assisted product development and production software for the apparel industry.
 
+![ApparelTrack style overview](images/styles-overview.png)
+
 ## The problem
 
 Garment development still runs on PDFs, spreadsheets and email. Every style
