@@ -1,13 +1,16 @@
 # ApparelTrack
 
-Turn apparel tech packs into structured, traceable production data — in minutes, not hours.
+One connected platform for apparel development — from tech pack to pattern, costing and purchasing.
 
 ## Why
 
-Every new style arrives as a long PDF tech pack, a bill of materials and a size spec,
-often in two languages and revised at every sample round. Teams still re-type it all by hand
-into production sheets, material lists and cost sheets. It is slow, error-prone, and caps how
-many styles one person can manage.
+The apparel industry has no platform that runs from start to finish. Tech packs live in PDFs,
+patterns in CAD, costing in spreadsheets, orders in ERP — and none of them talk to each other.
+Every new style arrives in two languages and changes at every sample round, so teams re-type
+the same data by hand at every step. It is slow, error-prone, and caps how many styles one
+person can manage.
+
+ApparelTrack connects every step on one shared, traceable set of data.
 
 ## What it does
 
