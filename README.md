@@ -2,8 +2,6 @@
 
 AI-assisted product development and production software for the apparel industry.
 
-![ApparelTrack style overview](images/styles-overview.png)
-
 ## The problem
 
 Garment development still runs on PDFs, spreadsheets and email. Every style
@@ -26,6 +24,21 @@ only a few dozen styles a season.
   consumption, and labour time, feeding into costing.
 - **Downstream operations** — bulk orders, material requirements and purchase
   orders.
+
+## In the product
+
+**Style overview.** Every style shows at a glance how complete its tech pack,
+bill of materials and size spec are, and where its sample round stands.
+
+![Style overview](images/styles-overview.png)
+
+**Pattern check.** Pattern pieces are laid out with their seams, cut quantities
+and areas. Every point of measure is measured again on the drawn pattern and
+compared with the size spec and its tolerance, so a mismatch is caught before
+a sample is cut rather than after. Each value is labelled with where it came
+from.
+
+![Pattern check](images/pattern-check.jpg)
 
 ## How it is built
 
